@@ -1,8 +1,7 @@
-Thanks for downloading this template!
+Portfolio Edited, Altered, & Created by: Bart Heimsness II, https://linkedin.com/in/bartheimsness, https://github.com/xaxa-0x3f
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Using iPortfolio Template...
+iPortfolio
+https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
-
-!!!
